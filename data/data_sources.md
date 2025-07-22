@@ -8,6 +8,10 @@ Source_url: https://www.emdat.be/database
 
 
 ## File: `./emdat_extreme_temperature_deaths_2000_2025.csv`
-from EMDAT: 
+__Source:__ EM-DAT, The International Disater Database
 
-data documentation: https://doc.emdat.be/docs/data-structure-and-content/glossary/meteorological-hazards/
+Centre for Research on the Epidemiology of Disasters (CRED), part of University of Louvain (UCLouvain), Brussels, Belgium
+
+[Data documentation](https://doc.emdat.be/docs/data-structure-and-content/glossary/meteorological-hazards/)
+
+[Main Website](https://www.emdat.be/)
