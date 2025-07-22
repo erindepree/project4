@@ -15,3 +15,5 @@ Centre for Research on the Epidemiology of Disasters (CRED), part of University 
 [Data documentation](https://doc.emdat.be/docs/data-structure-and-content/glossary/meteorological-hazards/)
 
 [Main Website](https://www.emdat.be/)
+
+Data downloaded by Erin on Tuesday, July 22, 2025
