@@ -41,3 +41,8 @@ metadata = requests.get("https://ourworldindata.org/grapher/average-monthly-surf
 Directory includes a `.csv` file with the data, metadate in JSON format, and a README.
 
 Data downloaded by Erin on Wednesday, July 23, 2025
+
+## External files: temperature grid data: ERA5 reanalysis data
+
+Data Source: ERA5 Land hourly time-series data from 1950 to present [Climate Data Store, Copernicus satillite](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=download)
+Data downloaded by Erin on Friday -- Saturday, July 25 -- 26, 2025

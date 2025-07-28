@@ -1,0 +1,3 @@
+,date,temp_max,temp_min,latitude,longitude,is_above_max_extreme,is_below_min_extreme,is_heat_wave,is_cold_wave
+1521,2024-03-01,3.698080000000005,-3.039919999999995,30.000000000000995,60.00000000000057,False,True,False,True
+1522,2024-03-02,5.344870000000014,-3.801429999999982,30.000000000000995,60.00000000000057,False,True,False,True
