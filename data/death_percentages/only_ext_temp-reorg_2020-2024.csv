@@ -1,0 +1,32 @@
+Region,Subregion,Country,Location,Start Year,Start Month,End Year,End Month,Duration in months - all events,Disaster Subtype,Magnitude,Total Deaths,Total Affected
+Asia,Southern Asia,Afghanistan,"Badakhshan, Badghis, Balkh, Farah, Faryab, Ghor, Herat, Jawzjan, Kunduz, Nuristan, Sar-e-Pul, Uruzgan, and Zabul",2024,3.0,2024,3.0,0.0,Severe winter conditions,-33.0,1197.0,327422.0
+Asia,Southern Asia,Afghanistan,"Ghor, Baghlan, Sar-e-Pul, Faryab, Takhar, Kandahar, Nimroz and Badghis",2023,1.0,2023,1.0,0.0,Cold wave,-33.0,166.0,0.0
+Asia,Southern Asia,Bangladesh,"Shyampur, Bangshal, Kotwali (Dhaka), Sutrapur, Kamrangir Char, Chak Bazar, Lalbagh, Gendaria, Paltan, Barisal, Dhaka, Khulna, Rajshahi, Rangpur; Magura district",2024,4.0,2024,5.0,1.0,Heat wave,38.0,10.0,33000000.0
+Americas,Northern America,Canada,British Columbia,2021,6.0,2021,7.0,1.0,Heat wave,49.6,815.0,0.0
+Europe,Southern Europe,Croatia,"Zagreb, Osijek, Karlovac, Slavonski Brod, Knin, Valopovo",2022,5.0,2022,9.0,4.0,Heat wave,40.0,731.0,0.0
+Europe,Northern Europe,Denmark,"Abed, Stokkemarke Parish, Lolland, Copenhagen, Vordingborg",2022,5.0,2022,9.0,4.0,Heat wave,35.9,252.0,0.0
+Europe,Western Europe,France,Rhone region,2021,4.0,2021,4.0,0.0,Cold wave,,0.0,0.0
+Europe,Southern Europe,Greece,Crete,2023,7.0,2023,7.0,0.0,Heat wave,44.2,4339.0,0.0
+Asia,Southern Asia,India,"New Delhi; Rajasthan, Bihar, Gujarat, West Rajasthan, Punjab, Haryana, Chandigarh",2024,3.0,2024,6.0,3.0,Heat wave,50.5,733.0,25000.0
+Asia,Southern Asia,India,Maharashtra state,2023,4.0,2023,4.0,0.0,Heat wave,38.0,11.0,330.0
+Asia,Southern Asia,India,"Uttar Pradesh, Bihar, Tripura, Odisha",2023,4.0,2023,6.0,2.0,Heat wave,45.0,179.0,460.0
+Asia,Southern Asia,India,"Maharashtra State, West Rajasthan",2022,3.0,2022,4.0,1.0,Heat wave,45.0,25.0,0.0
+Europe,Southern Europe,Italy,"Sardaigne, Sicile, Roe, Bologne, Pascara, Naples",2023,7.0,2023,8.0,1.0,Heat wave,48.8,12743.0,0.0
+Asia,Eastern Asia,Japan,"Shizuoka, Osaka, Nara, Tochigi, Fukuoka, Hokkaido Prefectures",2024,4.0,2024,9.0,5.0,Heat wave,41.0,123.0,37000.0
+Asia,Eastern Asia,Japan,"Gunma, Tochigi, Yamanashi, Aichi, Tokyo",2022,6.0,2022,7.0,1.0,Heat wave,37.0,80.0,14300.0
+Asia,Western Asia,Jordan,"Ajloun, Karak, Mafraq, Amman, Taleh, Irbid, Maan",2023,11.0,2023,12.0,1.0,Cold wave,7.5,0.0,2000.0
+Asia,Central Asia,Kyrgyzstan,"Osh, Kara-Suu town, Jalalabad city, Kadamjay district in Batken oblast",2022,7.0,2022,7.0,0.0,Heat wave,41.0,0.0,13850.0
+Asia,South-eastern Asia,Lao People's Democratic Republic,"Tha Ngon, Seno",2024,4.0,2024,5.0,1.0,Heat wave,43.6,0.0,0.0
+Asia,Western Asia,Lebanon,"Bekaa, Mount Lebanon, North, South",2024,1.0,2024,1.0,0.0,Cold wave,0.0,0.0,2975000.0
+Asia,Western Asia,Lebanon,"Bekaa Valley, Beirut, Mount Lebanon",2023,1.0,2023,2.0,1.0,Cold wave,,0.0,1024200.0
+Asia,Eastern Asia,Mongolia,"Dornod, Dornogovi, Dundgovi, Govi-Altai, Khentii, Ömnögovi, Sükhbaatar",2023,5.0,2023,5.0,0.0,Cold wave,,2.0,5100.0
+Asia,Eastern Asia,Mongolia,"Arhangai, Bayanhongor, Bayan-Ölgii, Dornogovi, Dundgovi, Govi-Altai, Khovd, Ömnögovi, Övörkhangai, Sükhbaatar, Töv, Uvs, Zavkhan",2022,11.0,2022,12.0,1.0,Cold wave,-34.0,0.0,29662.0
+Asia,Southern Asia,Pakistan,"Karachi, Sindh province",2024,6.0,2024,6.0,0.0,Heat wave,50.0,568.0,7905.0
+Asia,Southern Asia,Pakistan,Sindh,2024,5.0,2024,5.0,0.0,Heat wave,53.0,0.0,0.0
+Europe,Southern Europe,Spain,"Figueres, Catalunya",2023,7.0,2023,8.0,1.0,Heat wave,45.4,8352.0,0.0
+Asia,Western Asia,State of Palestine,West Bank & Gaza Strip,2022,1.0,2022,1.0,0.0,Severe winter conditions,,4.0,3500.0
+Asia,Western Asia,State of Palestine,West Bank and Gaza Strip,2020,1.0,2020,2.0,1.0,Cold wave,0.0,3.0,30000.0
+Americas,Northern America,United States of America,Arizona,2024,4.0,2024,10.0,6.0,Heat wave,40.0,1006.0,0.0
+Americas,Northern America,United States of America,"Texas, Louisiana, Florida, Arizona, New Mexico, Kansas, Oklahoma, and southern California",2023,6.0,2023,7.0,1.0,Heat wave,56.7,14.0,0.0
+Americas,Northern America,United States of America,"Texas, Arkansas, Louisiana, Oklahoma, Tennessee. Mississippi",2023,1.0,2023,2.0,1.0,Severe winter conditions,-50.0,10.0,25.0
+Americas,Northern America,United States of America,"Oregon, Washington, Northern California, Idaho, Western Nevada",2021,6.0,2021,6.0,0.0,Heat wave,46.8,229.0,0.0
