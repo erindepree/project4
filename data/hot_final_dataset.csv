@@ -1,0 +1,65 @@
+,country,subregion,region,location,temperature,start_year,start_month,total_deaths,start_date,end_date,duration_days,duration,latitude,longitude,delta_temp_C,delta_temp_std
+0,India,Southern Asia,Asia,"Madhya Pradesh, Andhra Pradesh, Uttar Pradesh, Delhi, Rajasthan, Punjab, Haryana, Orissa, West Bengal provinces",50.0,2002,5,1030.0,2002-05-10,2002-05-22,12 days,12,20.0,80.0,26.64181816990943,13.398197819359323
+1,Bangladesh,Southern Asia,Asia,"Dhaka, Khulna, Rajshahi provinces",40.0,2003,5,62.0,2003-05-10,2003-06-12,33 days,33,30.0,90.0,55.978310171944756,16.90477397591128
+2,India,Southern Asia,Asia,"Andhra Pradesh, Orissa, Tamil Nadu, Vidarbha (=part of Maharashtra), Chhattisgarh, Jharkland, Uttar Pradesh, Rajasthan, Madhya Pradesh, Bihar provinces",49.0,2003,5,1210.0,2003-05-14,2003-06-06,23 days,23,20.0,80.0,26.18057312337375,12.736790334291044
+3,Pakistan,Southern Asia,Asia,Punjab province,50.0,2003,5,200.0,2003-05-01,2003-06-06,36 days,36,30.0,70.0,36.546044853551855,13.30993968553268
+4,Czechia,Eastern Europe,Europe,"Jihocesky, Jihomoravsky, Praha, Severocesky, Severomoravsky, Stredocesky, Vychodocesky, Zapadocesky provinces",25.0,2003,7,418.0,2003-07-19,2003-07-22,3 days,3,50.0,20.0,15.662069951272922,6.781607880892353
+5,Spain,Southern Europe,Europe,Andaloucia province,40.0,2003,8,15090.0,2003-08-01,2003-08-11,10 days,10,40.0,0.0,20.956161125710057,13.225561542179667
+6,France,Western Europe,Europe,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",43.0,2003,8,19490.0,2003-08-01,2003-08-20,19 days,19,50.0,0.0,25.046194308965138,12.513938957069605
+7,Algeria,Northern Africa,Africa,Adrar (province?/district?),47.0,2003,6,40.0,2003-06-21,2003-07-21,30 days,30,30.0,0.0,18.35082329668546,12.12857008170931
+8,Canary Islands,Northern Africa,Africa,Canarias province,42.0,2004,7,13.0,2004-07-26,2004-07-30,4 days,4,20.0,-10.0,33.11291676420293,14.725346819703333
+9,Pakistan,Southern Asia,Asia,"Punjab, Sindh, Balochistan provinces",50.0,2005,6,106.0,2005-06-13,2005-06-28,15 days,15,30.0,70.0,26.725766445063353,11.404444140073588
+10,Romania,Eastern Europe,Europe,Bucuresti province,36.0,2005,7,13.0,2005-07-27,2005-08-01,5 days,5,50.0,20.0,21.51182798809055,13.19207453633408
+11,Spain,Southern Europe,Europe,"Cataluña/Catalunya, Comunitat Valenciana provinces",40.0,2006,7,21.0,2006-07-15,2006-08-04,20 days,20,40.0,0.0,25.04910828955338,11.3677703277527
+12,France,Western Europe,Europe,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",37.0,2006,7,1388.0,2006-07-15,2006-07-23,8 days,8,50.0,0.0,28.642573132180072,17.448446359330372
+13,Netherlands (Kingdom of the),Western Europe,Europe,"Drenthe, Flevoland, Friesland, Gelderland, Groninge, Limburg, Noord-brabant, Noord-holland,Overijssel, Utrecht, Zeeland, Zuit-holland provinces",34.0,2006,7,1000.0,2006-07-15,2006-07-23,8 days,8,50.0,10.0,30.96206995127292,13.406441054314623
+14,Portugal,Southern Europe,Europe,"Aveiro, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guadra, Leiria, Lisboa, Portoalegre, Porto, Santarem, Setubal, Viana Do Castelo, Vila Real, Viseu provinces",47.0,2006,7,41.0,2006-07-11,2006-07-17,6 days,6,40.0,0.0,25.686986046183854,12.65427902697478
+15,Slovakia,Eastern Europe,Europe,"Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilna provinces",40.3,2007,7,1.0,2007-07-15,2007-07-22,7 days,7,50.0,20.0,18.002631318375165,9.300354452157157
+16,India,Southern Asia,Asia,"Orissa, West Bengal, Bihar, Uttar Pradesh, Jharkhand, Andhra Pradesh provinces",48.0,2009,4,120.0,2009-04-14,2009-06-26,73 days,73,20.0,80.0,30.472351425813414,17.687389528744202
+17,Australia,Australia and New Zealand,Oceania,"Victoria, New South wales (South), Tasmania (Northern) provinces",48.8,2009,1,347.0,2009-01-27,2009-02-08,12 days,12,,,23.268638984145262,12.340689148423856
+18,Japan,Eastern Asia,Asia,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",35.0,2010,7,170.0,2010-07-19,2010-07-25,6 days,6,40.0,140.0,22.002631318375165,11.366797804282989
+19,Italy,Southern Europe,Europe,"Milano district (Lombardia province), Torino district (Piemonte province), Trieste district (Friuli-venezia Giulia province), Verona district (Veneto province), Messina district (Sicilia province), Roma district (Lazio province), Napoli district (Campania province)",47.0,2011,8,10.0,2011-08-17,2011-08-24,7 days,7,40.0,20.0,24.64181816990943,12.392395757809942
+20,India,Southern Asia,Asia,"Adilabad, East Godavari, Guntur, Karimnagar, Khammam, Krishna, Nalgonda, Nizamabad, Prakasam, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",46.0,2013,4,557.0,2013-04-01,2013-05-30,59 days,59,20.0,80.0,28.112916764202932,12.501841876819183
+21,Australia,Australia and New Zealand,Oceania,"Western Australia, Victoria provinces",52.0,2014,1,139.0,2014-01-13,2014-01-18,5 days,5,,,23.078015329960973,12.872244192789855
+22,Japan,Eastern Asia,Asia,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",39.0,2014,7,27.0,2014-07-14,2014-07-29,15 days,15,40.0,140.0,34.933678086840146,16.38385340007995
+23,India,Southern Asia,Asia,"Delhi, Andhra Pradesh, Orissa provinces",48.0,2015,5,2248.0,2015-05-20,2015-05-31,11 days,11,20.0,80.0,28.394003146992432,15.206428791461827
+24,Pakistan,Southern Asia,Asia,"Sindh, Punjab provinces",45.0,2015,6,1229.0,2015-06-18,2015-06-24,6 days,6,30.0,70.0,25.50557952604514,12.849382488641284
+25,Sudan,Northern Africa,Africa,Wadi Halfa district (Northern province),47.0,2015,8,16.0,2015-08-13,2015-08-15,2 days,2,20.0,30.0,29.21052125794197,10.233343896679145
+26,France,Western Europe,Europe,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",40.0,2015,6,3275.0,2015-06-29,2015-08-09,41 days,41,50.0,0.0,24.102631318375174,12.45168056414905
+27,South Africa,Sub-Saharan Africa,Africa,Ngaka Modiri Molema (North West province),45.0,2016,1,11.0,2016-01-01,2016-01-10,9 days,9,-30.0,30.0,27.912776691012002,10.83464299558964
+28,India,Southern Asia,Asia,"Andhra Pradesh, Rajasthan, Orissa, Bihar, Jharkhand, Tamil Nadu, Uttar Pradesh provinces",51.0,2016,4,300.0,2016-04-01,2016-05-20,49 days,49,20.0,80.0,31.699143531157862,12.111414234351303
+29,India,Southern Asia,Asia,"Andhra Pradesh, Telangana, Maharashtra, Odisha (Orissa)",48.0,2017,4,264.0,2017-04-12,2017-06-15,64 days,64,20.0,80.0,31.649108289553382,14.362978113031735
+30,Pakistan,Southern Asia,Asia,Karachi,42.0,2018,5,180.0,2018-05-18,2018-05-22,4 days,4,30.0,70.0,31.44910828955338,14.272214240750548
+31,Canada,Northern America,Americas,"Gatineau, Montréal, Joliette, Saint-Hyacinthe, Saint-Jean-sur-Richelieu, Drummondville, Sherbrooke ,Outaouais, Laurentides, Lanaudière, Victoriaville Trois-Rivières, Québec, La Malbaie, Kamouraska, l’Abitibi-Témiscamingue, Saguenay—Lac-Saint-Jean (Quebec)",37.2,2018,6,70.0,2018-06-29,2018-07-05,6 days,6,,,12.317118968247234,5.738049407294734
+32,Japan,Eastern Asia,Asia,Kumagaya (Saitama Prefecture),41.1,2018,7,119.0,2018-07-01,2018-07-15,14 days,14,40.0,140.0,26.159077822995556,10.2361828549071
+33,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,,33.2,2018,6,820.0,2018-06-30,2018-07-10,10 days,10,51.0,0.0,25.865197911734626,9.928284037040466
+34,Belgium,Western Europe,Europe,,35.0,2019,6,128.0,2019-06-21,2019-07-01,10 days,10,50.0,10.0,28.401155834645294,11.415657325225446
+35,Germany,Western Europe,Europe,,38.6,2019,6,4.0,2019-06-24,2019-06-30,6 days,6,50.0,10.0,32.10115583464528,12.90901600966955
+36,France,Western Europe,Europe,"Vaucluse, Bouches-du-Rhône, Hérault, Gard",46.0,2019,6,567.0,2019-06-24,2019-07-07,13 days,13,50.0,0.0,30.401155834645294,12.222878235735775
+37,Belgium,Western Europe,Europe,,40.6,2019,7,400.0,2019-07-19,2019-07-27,8 days,8,50.0,10.0,30.401155834645294,12.222878235735775
+38,France,Western Europe,Europe,Toute la France métropolitaine (excepté l'ouest de la Bretagne et la Corse),43.6,2019,7,868.0,2019-07-21,2019-07-27,6 days,6,50.0,0.0,32.401155834645294,13.030099146246098
+39,Netherlands (Kingdom of the),Western Europe,Europe,,40.4,2019,7,400.0,2019-07-22,2019-07-27,5 days,5,50.0,10.0,28.001155834645296,11.254213143123382
+40,Japan,Eastern Asia,Asia,,30.0,2019,7,162.0,2019-07-29,2019-08-08,10 days,10,40.0,140.0,26.24752827123678,14.483675088834207
+41,Belgium,Western Europe,Europe,,35.0,2019,8,188.0,2019-08-23,2019-08-29,6 days,6,50.0,10.0,22.875100881892134,9.586026906734403
+42,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,,38.7,2019,7,161.0,2019-07-21,2019-08-28,38 days,38,51.0,0.0,27.866980662163574,13.156902275879386
+43,Japan,Eastern Asia,Asia,"Gunma, Tochigi, Yamanashi, Aichi, Tokyo",37.0,2022,6,80.0,2022-06-20,2022-07-01,11 days,11,40.0,140.0,25.766980662163576,12.145698745454379
+44,Austria,Western Europe,Europe,,36.3,2022,5,419.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,34.06690584164383,13.297596193373359
+45,Belgium,Western Europe,Europe,,40.0,2022,5,434.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,26.56698066216357,12.530919137997245
+46,Switzerland,Western Europe,Europe,,38.3,2022,5,302.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,31.601155834645287,12.707210782041969
+47,Switzerland,Western Europe,Europe,,38.3,2022,5,302.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,29.805307917655984,12.060969069737942
+48,Germany,Western Europe,Europe,,40.3,2022,5,8173.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,30.466905841643847,11.886699886948561
+49,Denmark,Northern Europe,Europe,"Abed, Stokkemarke Parish, Lolland, Copenhagen, Vordingborg",35.9,2022,5,252.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,30.466905841643847,11.886699886948561
+50,Spain,Southern Europe,Europe,,43.2,2022,5,11324.0,2022-05-30,2022-09-04,97 days,97,40.0,0.0,30.04752827123678,16.60726446567131
+51,Finland,Northern Europe,Europe,,32.5,2022,5,225.0,2022-05-30,2022-09-04,97 days,97,60.0,30.0,31.466905841643847,12.278615527622119
+52,France,Western Europe,Europe,,42.0,2022,5,4807.0,2022-05-30,2022-09-04,97 days,97,50.0,0.0,25.766980662163576,12.145698745454379
+53,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,,40.3,2022,5,3469.0,2022-05-30,2022-09-04,97 days,97,51.0,0.0,25.766980662163576,12.145698745454379
+54,Greece,Southern Europe,Europe,,42.1,2022,5,3092.0,2022-05-30,2022-09-04,97 days,97,40.0,20.0,29.166905841643832,11.377209554072937
+55,Croatia,Southern Europe,Europe,"Zagreb, Osijek, Karlovac, Slavonski Brod, Knin, Valopovo",40.0,2022,5,731.0,2022-05-30,2022-09-04,97 days,97,40.0,20.0,32.76690584164383,12.788105860497746
+56,Hungary,Eastern Europe,Europe,,41.9,2022,5,513.0,2022-05-30,2022-09-04,97 days,97,50.0,20.0,58.74337916228295,16.254653710305767
+57,Ireland,Northern Europe,Europe,,33.3,2022,5,26.0,2022-05-30,2022-09-04,97 days,97,51.0,0.0,28.402372987778115,14.939936097964114
+58,Italy,Southern Europe,Europe,,40.8,2022,5,18010.0,2022-05-30,2022-09-04,97 days,97,40.0,20.0,40.028576563234274,25.95196341842474
+59,Netherlands (Kingdom of the),Western Europe,Europe,,39.5,2022,5,469.0,2022-05-30,2022-09-04,97 days,97,50.0,10.0,30.588918082322074,14.169654328780865
+60,Norway,Northern Europe,Europe,,34.0,2022,5,30.0,2022-05-30,2022-09-30,123 days,123,60.0,10.0,33.11291676420293,14.725346819703333
+61,Poland,Eastern Europe,Europe,,38.3,2022,5,763.0,2022-05-30,2022-09-04,97 days,97,50.0,20.0,24.90057968806472,13.529710932051808
+62,Poland,Eastern Europe,Europe,,38.3,2022,5,763.0,2022-05-30,2022-09-04,97 days,97,50.0,20.0,30.752337312076207,11.799450750715451
+63,Portugal,Southern Europe,Europe,,47.0,2022,5,2212.0,2022-05-30,2022-09-04,97 days,97,40.0,0.0,17.50214478264288,7.991686181875437
