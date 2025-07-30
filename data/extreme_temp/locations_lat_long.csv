@@ -1,0 +1,46 @@
+country,location,exact_latitude,exact_longitude,latitude,longitude
+Afghanistan,Kabul,34.555,69.2,30,70
+Poland,Warsaw,52.2,21.0,50,20
+Peru,,-9.2,-75.0,-10,-70
+United States of America,"Connecticut, Delaware, Maryland, Maine, New Ha...",40.0,-80.0,40,-80
+United States of America,"New York, Minnesota, Georgia, Maryland, Alaska...",,,40,-90
+United States of America,"Nebraska, Kansas",,,40,-100
+United States of America,Utah,,,40,-110
+United States of America,"California, Nevada",,,40,-120
+United States of America,Louisiana,,,30,-90
+United States of America,"Texas, Pennsylvania, Oklahoma, Kentucky, Misso...",,,30,-100
+United States of America,Alaska,,,60,-160
+United States of America,Alaska,,,70,-160
+United States of America,Alaska,,,60,-150
+United States of America,Alaska,,,70,-150
+United States of America,Alaska,,,60,-140
+Germany,,51.0,10.5,50,10
+France,,46.2,2.2,50,0
+South Africa,,,,-30,30
+India,,,,20,80
+Romania,,45.0,25.0,50,20
+United Kingdom of Great Britain and Northern Ireland,,,,51,0
+Bangladesh,,25.0,90.0,30,90
+Russian Federation,,,,60,30
+Lithuania,,55.0,24.0,60,30
+China,,30.0,110.0,30,110
+Mexico,,,,20,-100
+Nepal,,28.5,84.0,30,80
+Bosnia and Herzegovina,,44.0,18.0,40,20
+Republic of Moldova,,47.0,29.0,50,30
+Bulgaria,,43.0,26.0,40,30
+Switzerland,,47.0,8.0,50,10
+Croatia,,45.0,15.0,40,20
+Serbia,,44.0,21.0,40,20
+Ukraine,,50.0,30.0,50,30
+Kyrgyzstan,,41.0,75.0,40,70
+Japan,,36.0,138.0,40,140
+Republic of Korea,,36.0,127.0,30,120
+Thailand,,16.0,101.0,20,100
+Taiwan (Province of China),,24.0,121.0,30,120
+Czechia,,50.0,15.0,50,20
+Estonia,,59.0,25.0,60,30
+Italy,,42.0,13.0,40,20
+Algeria,,30.0,0.0,30,0
+State of Palestine,,32.0,35.0,30,40
+Mongolia,,47.0,105.0,50,100

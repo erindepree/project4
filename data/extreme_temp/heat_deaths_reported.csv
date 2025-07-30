@@ -1,0 +1,112 @@
+,disaster_subtype,country,subregion,region,location,temperature,magnitude_scale,start_year,start_month,total_deaths,start_date,end_date,duration_days
+0,Heat wave,India,Southern Asia,Asia,"Madhya Pradesh, Andhra Pradesh, Uttar Pradesh, Delhi, Rajasthan, Punjab, Haryana, Orissa, West Bengal provinces",50.0,°C,2002,5,1030.0,2002-05-10,2002-05-22,12 days
+1,Heat wave,Bangladesh,Southern Asia,Asia,"Dhaka, Khulna, Rajshahi provinces",40.0,°C,2003,5,62.0,2003-05-10,2003-06-12,33 days
+2,Heat wave,India,Southern Asia,Asia,"Andhra Pradesh, Orissa, Tamil Nadu, Vidarbha (=part of Maharashtra), Chhattisgarh, Jharkland, Uttar Pradesh, Rajasthan, Madhya Pradesh, Bihar provinces",49.0,°C,2003,5,1210.0,2003-05-14,2003-06-06,23 days
+3,Heat wave,Pakistan,Southern Asia,Asia,Punjab province,50.0,°C,2003,5,200.0,2003-05-01,2003-06-06,36 days
+4,Heat wave,Belgium,Western Europe,Europe,"Region de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewes, Region wallonne, Vlaams Gewest provinces",,°C,2003,8,1175.0,2003-08-01,2003-08-15,14 days
+5,Heat wave,Czechia,Eastern Europe,Europe,"Jihocesky, Jihomoravsky, Praha, Severocesky, Severomoravsky, Stredocesky, Vychodocesky, Zapadocesky provinces",25.0,°C,2003,7,418.0,2003-07-19,2003-07-22,3 days
+6,Heat wave,Spain,Southern Europe,Europe,Andaloucia province,40.0,°C,2003,8,15090.0,2003-08-01,2003-08-11,10 days
+7,Heat wave,France,Western Europe,Europe,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",43.0,°C,2003,8,19490.0,2003-08-01,2003-08-20,19 days
+8,Heat wave,Italy,Southern Europe,Europe,"Milano, Varese districts (Lombardia province), Torino district (Piemonte province), Firenze district (Toscana province), Lecce district (Puglia province), Genova district (Liguria province)",,°C,2003,7,20089.0,2003-07-16,2003-08-15,30 days
+9,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,"Drenthe, Flevoland, Friesland, Gelderland, Groninge, Limburg, Noord-brabant, Noord-holland,Overijssel, Utrecht, Zeeland, Zuit-holland provinces",,°C,2003,7,965.0,2003-07-31,2003-08-13,13 days
+10,Heat wave,Portugal,Southern Europe,Europe,"Aveiro, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guadra, Leiria, Lisboa, Portoalegre, Porto, Santarem, Setubal, Viana Do Castelo, Vila Real, Viseu provinces",,°C,2003,7,2696.0,2003-07-30,2003-08-15,16 days
+11,Heat wave,Algeria,Northern Africa,Africa,Adrar (province?/district?),47.0,°C,2003,6,40.0,2003-06-21,2003-07-21,30 days
+12,Heat wave,Spain,Southern Europe,Europe,"Andalucía, Castilla-La Mancha, Comunidad de Madrid, Comunitat Valenciana, Extremadura, Región de Murcia provinces",,°C,2004,7,26.0,2004-07-26,2004-07-30,4 days
+13,Heat wave,Canary Islands,Northern Africa,Africa,Canarias province,42.0,°C,2004,7,13.0,2004-07-26,2004-07-30,4 days
+14,Heat wave,Pakistan,Southern Asia,Asia,"Punjab, Sindh, Balochistan provinces",50.0,°C,2005,6,106.0,2005-06-13,2005-06-28,15 days
+15,Heat wave,United States of America,Northern America,Americas,"Arizona, Nevada, Oklahoma, Utah, Missouri, Kentucky, Ohio, Mississippi provinces",47.0,°C,2005,7,33.0,2005-07-04,2005-07-30,26 days
+16,Heat wave,Romania,Eastern Europe,Europe,Bucuresti province,36.0,°C,2005,7,13.0,2005-07-27,2005-08-01,5 days
+17,Heat wave,Germany,Western Europe,Europe,"Dresden city (Dresden district, Sachsen province), Brombach lake (Mittelfranken district, Bayern province)",,°C,2006,7,2.0,2006-07-15,2006-07-23,8 days
+18,Heat wave,Spain,Southern Europe,Europe,"Cataluña/Catalunya, Comunitat Valenciana provinces",40.0,°C,2006,7,21.0,2006-07-15,2006-08-04,20 days
+19,Heat wave,France,Western Europe,Europe,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",37.0,°C,2006,7,1388.0,2006-07-15,2006-07-23,8 days
+20,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,"Drenthe, Flevoland, Friesland, Gelderland, Groninge, Limburg, Noord-brabant, Noord-holland,Overijssel, Utrecht, Zeeland, Zuit-holland provinces",34.0,°C,2006,7,1000.0,2006-07-15,2006-07-23,8 days
+21,Heat wave,Portugal,Southern Europe,Europe,"Aveiro, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guadra, Leiria, Lisboa, Portoalegre, Porto, Santarem, Setubal, Viana Do Castelo, Vila Real, Viseu provinces",47.0,°C,2006,7,41.0,2006-07-11,2006-07-17,6 days
+22,Heat wave,United States of America,Northern America,Americas,"Modesto city (Stanislaus district, California province)",50.0,°C,2006,7,164.0,2006-07-14,2006-08-15,32 days
+23,Heat wave,United States of America,Northern America,Americas,New York province,44.0,°C,2006,7,24.0,2006-07-30,2006-08-06,7 days
+24,Heat wave,Slovakia,Eastern Europe,Europe,"Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilna provinces",40.3,°C,2007,7,1.0,2007-07-15,2007-07-22,7 days
+25,Heat wave,India,Southern Asia,Asia,"Orissa, West Bengal, Bihar, Uttar Pradesh, Jharkhand, Andhra Pradesh provinces",48.0,°C,2009,4,120.0,2009-04-14,2009-06-26,73 days
+26,Heat wave,Australia,Australia and New Zealand,Oceania,"Victoria, New South wales (South), Tasmania (Northern) provinces",48.8,°C,2009,1,347.0,2009-01-27,2009-02-08,12 days
+27,Heat wave,Japan,Eastern Asia,Asia,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",35.0,°C,2010,7,170.0,2010-07-19,2010-07-25,6 days
+28,Heat wave,United States of America,Northern America,Americas,"New York, Washington, Texas, Ohio, Maine, Iowa, Illinois, Minnesota, Nebraska, Wisconsin, South Dakota provinces",50.0,°C,2011,7,22.0,2011-07-19,2011-07-22,3 days
+29,Heat wave,Italy,Southern Europe,Europe,"Milano district (Lombardia province), Torino district (Piemonte province), Trieste district (Friuli-venezia Giulia province), Verona district (Veneto province), Messina district (Sicilia province), Roma district (Lazio province), Napoli district (Campania province)",47.0,°C,2011,8,10.0,2011-08-17,2011-08-24,7 days
+30,Heat wave,United States of America,Northern America,Americas,"District of Columbia, Iowa, Virginia, North Carolina provinces",40.0,°C,2012,6,123.0,2012-06-30,2012-07-19,19 days
+31,Heat wave,India,Southern Asia,Asia,"Adilabad, East Godavari, Guntur, Karimnagar, Khammam, Krishna, Nalgonda, Nizamabad, Prakasam, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",46.0,°C,2013,4,557.0,2013-04-01,2013-05-30,59 days
+32,Heat wave,China,Eastern Asia,Asia,Shanghai Shi province,,°C,2013,7,40.0,2013-07-01,2013-08-15,45 days
+33,Heat wave,Australia,Australia and New Zealand,Oceania,"Western Australia, Victoria provinces",52.0,°C,2014,1,139.0,2014-01-13,2014-01-18,5 days
+34,Heat wave,Japan,Eastern Asia,Asia,"Aiti, Ehime, Gifu, Gunma, Hirosima, Hukui, Hukuoka, Hukusima, Hyoogo, Ibaraki, Isikawa, Kagawa, Kagosima, Kanagawa, Kooti, Kumamoto, Kyooto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Okayama, Okinawa, Ooita, Oosaka, Saga, Saitama, Siga, Simane, Sizuoka, Tiba, Tokusima, Tookyoo, Totigi, Tottori, Toyama, Wakayama, Yamagata, Yamaguti, Yamanasi provinces",39.0,°C,2014,7,27.0,2014-07-14,2014-07-29,15 days
+35,Heat wave,India,Southern Asia,Asia,"Delhi, Andhra Pradesh, Orissa provinces",48.0,°C,2015,5,2248.0,2015-05-20,2015-05-31,11 days
+36,Heat wave,Pakistan,Southern Asia,Asia,"Sindh, Punjab provinces",45.0,°C,2015,6,1229.0,2015-06-18,2015-06-24,6 days
+37,Heat wave,Sudan,Northern Africa,Africa,Wadi Halfa district (Northern province),47.0,°C,2015,8,16.0,2015-08-13,2015-08-15,2 days
+38,Heat wave,Belgium,Western Europe,Europe,"Vlaams Gewest, Region de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewes, Region wallonne provinces",,°C,2015,6,410.0,2015-06-30,2015-07-05,5 days
+39,Heat wave,France,Western Europe,Europe,"Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Compte, Haute-Normandie, Ile-de-France, Languedoc-Rousillon, Limousin, Lorraine, Nord-Pas-de-Calais, Pays-de-la-Loire, Picardie, Poitou-Charentes, Provence-Alpes-Côte-D'azur, Rhône-Alpes, Midi-Pyrénées provinces",40.0,°C,2015,6,3275.0,2015-06-29,2015-08-09,41 days
+40,Heat wave,Japan,Eastern Asia,Asia,"Oosaka province, Tokyo, Saitama",,°C,2015,8,32.0,2015-08-03,2015-08-09,6 days
+41,Heat wave,Japan,Eastern Asia,Asia,"Funabashi (Chiba Prefecture), Isesaki City, Tatebayashi (Gunma Prefecture), Tokyo, Iwate, Yagamata",,°C,2015,7,5.0,2015-07-12,2015-07-15,3 days
+42,Heat wave,South Africa,Sub-Saharan Africa,Africa,Ngaka Modiri Molema (North West province),45.0,°C,2016,1,11.0,2016-01-01,2016-01-10,9 days
+43,Heat wave,India,Southern Asia,Asia,"Andhra Pradesh, Rajasthan, Orissa, Bihar, Jharkhand, Tamil Nadu, Uttar Pradesh provinces",51.0,°C,2016,4,300.0,2016-04-01,2016-05-20,49 days
+44,Heat wave,Japan,Eastern Asia,Asia,"Yamanashi, Kawanehoncho,Shizuoka",,°C,2016,8,3.0,2016-08-06,2016-08-08,2 days
+45,Heat wave,India,Southern Asia,Asia,"Andhra Pradesh, Telangana, Maharashtra, Odisha (Orissa)",48.0,°C,2017,4,264.0,2017-04-12,2017-06-15,64 days
+46,Heat wave,Pakistan,Southern Asia,Asia,Karachi,42.0,°C,2018,5,180.0,2018-05-18,2018-05-22,4 days
+47,Heat wave,Canada,Northern America,Americas,"Gatineau, Montréal, Joliette, Saint-Hyacinthe, Saint-Jean-sur-Richelieu, Drummondville, Sherbrooke ,Outaouais, Laurentides, Lanaudière, Victoriaville Trois-Rivières, Québec, La Malbaie, Kamouraska, l’Abitibi-Témiscamingue, Saguenay—Lac-Saint-Jean (Quebec)",37.2,°C,2018,6,70.0,2018-06-29,2018-07-05,6 days
+48,Heat wave,Japan,Eastern Asia,Asia,Kumagaya (Saitama Prefecture),41.1,°C,2018,7,119.0,2018-07-01,2018-07-15,14 days
+49,Heat wave,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,,33.2,°C,2018,6,820.0,2018-06-30,2018-07-10,10 days
+50,Heat wave,Belgium,Western Europe,Europe,,35.0,°C,2019,6,128.0,2019-06-21,2019-07-01,10 days
+51,Heat wave,Germany,Western Europe,Europe,,38.6,°C,2019,6,4.0,2019-06-24,2019-06-30,6 days
+52,Heat wave,Spain,Southern Europe,Europe,"Cordoba, Valladolid",,°C,2019,6,2.0,2019-06-26,2019-06-30,4 days
+53,Heat wave,France,Western Europe,Europe,"Vaucluse, Bouches-du-Rhône, Hérault, Gard",46.0,°C,2019,6,567.0,2019-06-24,2019-07-07,13 days
+54,Heat wave,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,"Cornwall, Manchester",,°C,2019,6,5.0,2019-06-26,2019-06-30,4 days
+55,Heat wave,Italy,Southern Europe,Europe,"Marche Region, Veneto Region, Milan",,°C,2019,6,3.0,2019-06-26,2019-06-30,4 days
+56,Heat wave,Austria,Western Europe,Europe,,,°C,2019,7,1.0,2019-07-24,2019-07-26,2 days
+57,Heat wave,Belgium,Western Europe,Europe,,40.6,°C,2019,7,400.0,2019-07-19,2019-07-27,8 days
+58,Heat wave,France,Western Europe,Europe,Toute la France métropolitaine (excepté l'ouest de la Bretagne et la Corse),43.6,°C,2019,7,868.0,2019-07-21,2019-07-27,6 days
+59,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,,40.4,°C,2019,7,400.0,2019-07-22,2019-07-27,5 days
+60,Heat wave,Japan,Eastern Asia,Asia,,30.0,°C,2019,7,162.0,2019-07-29,2019-08-08,10 days
+61,Heat wave,Japan,Eastern Asia,Asia,,,°C,2019,7,11.0,2019-07-22,2019-07-30,8 days
+62,Heat wave,Belgium,Western Europe,Europe,,35.0,°C,2019,8,188.0,2019-08-23,2019-08-29,6 days
+63,Heat wave,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,,38.7,°C,2019,7,161.0,2019-07-21,2019-08-28,38 days
+64,Heat wave,Belgium,Western Europe,Europe,,,°C,2020,8,1687.0,2020-08-05,2020-08-08,3 days
+65,Heat wave,France,Western Europe,Europe,,,°C,2020,7,1924.0,2020-07-30,2020-08-16,17 days
+66,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,,,°C,2020,8,400.0,2020-08-05,2020-08-16,11 days
+67,Heat wave,United States of America,Northern America,Americas,"Oregon, Washington, Northern California, Idaho, Western Nevada",46.8,°C,2021,6,229.0,2021-06-26,2021-06-30,4 days
+68,Heat wave,Japan,Eastern Asia,Asia,"Gunma, Tochigi, Yamanashi, Aichi, Tokyo",37.0,°C,2022,6,80.0,2022-06-20,2022-07-01,11 days
+69,Heat wave,Albania,Southern Europe,Europe,,,°C,2022,5,352.0,2022-05-30,2022-09-04,97 days
+70,Heat wave,Austria,Western Europe,Europe,,36.3,°C,2022,5,419.0,2022-05-30,2022-09-04,97 days
+71,Heat wave,Belgium,Western Europe,Europe,,40.0,°C,2022,5,434.0,2022-05-30,2022-09-04,97 days
+72,Heat wave,Bulgaria,Eastern Europe,Europe,,,°C,2022,5,1277.0,2022-05-30,2022-09-04,97 days
+73,Heat wave,Switzerland,Western Europe,Europe,,38.3,°C,2022,5,302.0,2022-05-30,2022-09-04,97 days
+74,Heat wave,Cyprus,Western Asia,Asia,,,°C,2022,5,101.0,2022-05-30,2022-09-30,123 days
+75,Heat wave,Czechia,Eastern Europe,Europe,,,°C,2022,5,279.0,2022-05-30,2022-09-04,97 days
+76,Heat wave,Germany,Western Europe,Europe,,40.3,°C,2022,5,8173.0,2022-05-30,2022-09-04,97 days
+77,Heat wave,Denmark,Northern Europe,Europe,"Abed, Stokkemarke Parish, Lolland, Copenhagen, Vordingborg",35.9,°C,2022,5,252.0,2022-05-30,2022-09-04,97 days
+78,Heat wave,Spain,Southern Europe,Europe,,43.2,°C,2022,5,11324.0,2022-05-30,2022-09-04,97 days
+79,Heat wave,Estonia,Northern Europe,Europe,,,°C,2022,5,167.0,2022-05-30,2022-09-04,97 days
+80,Heat wave,Finland,Northern Europe,Europe,,32.5,°C,2022,5,225.0,2022-05-30,2022-09-04,97 days
+81,Heat wave,France,Western Europe,Europe,,42.0,°C,2022,5,4807.0,2022-05-30,2022-09-04,97 days
+82,Heat wave,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,,40.3,°C,2022,5,3469.0,2022-05-30,2022-09-04,97 days
+83,Heat wave,Greece,Southern Europe,Europe,,42.1,°C,2022,5,3092.0,2022-05-30,2022-09-04,97 days
+84,Heat wave,Croatia,Southern Europe,Europe,"Zagreb, Osijek, Karlovac, Slavonski Brod, Knin, Valopovo",40.0,°C,2022,5,731.0,2022-05-30,2022-09-04,97 days
+85,Heat wave,Hungary,Eastern Europe,Europe,,41.9,°C,2022,5,513.0,2022-05-30,2022-09-04,97 days
+86,Heat wave,Ireland,Northern Europe,Europe,,33.3,°C,2022,5,26.0,2022-05-30,2022-09-04,97 days
+87,Heat wave,Italy,Southern Europe,Europe,,40.8,°C,2022,5,18010.0,2022-05-30,2022-09-04,97 days
+88,Heat wave,Lithuania,Northern Europe,Europe,,,°C,2022,5,381.0,2022-05-30,2022-09-04,97 days
+89,Heat wave,Luxembourg,Western Europe,Europe,,,°C,2022,5,44.0,2022-05-30,2022-09-04,97 days
+90,Heat wave,Latvia,Northern Europe,Europe,,,°C,2022,5,105.0,2022-05-30,2022-09-04,97 days
+91,Heat wave,Malta,Southern Europe,Europe,,,°C,2022,5,76.0,2022-05-30,2022-09-04,97 days
+92,Heat wave,Montenegro,Southern Europe,Europe,,,°C,2022,5,50.0,2022-05-30,2022-09-04,97 days
+93,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,,39.5,°C,2022,5,469.0,2022-05-30,2022-09-04,97 days
+94,Heat wave,Norway,Northern Europe,Europe,,34.0,°C,2022,5,30.0,2022-05-30,2022-09-30,123 days
+95,Heat wave,Poland,Eastern Europe,Europe,,38.3,°C,2022,5,763.0,2022-05-30,2022-09-04,97 days
+96,Heat wave,Portugal,Southern Europe,Europe,,47.0,°C,2022,5,2212.0,2022-05-30,2022-09-04,97 days
+97,Heat wave,Romania,Eastern Europe,Europe,,39.3,°C,2022,5,2455.0,2022-05-30,2022-09-04,97 days
+98,Heat wave,Serbia,Southern Europe,Europe,,40.0,°C,2022,5,574.0,2022-05-30,2022-09-04,97 days
+99,Heat wave,Slovakia,Eastern Europe,Europe,,37.0,°C,2022,5,365.0,2022-05-30,2022-09-04,97 days
+100,Heat wave,Slovenia,Southern Europe,Europe,,40.6,°C,2022,5,154.0,2022-05-30,2022-09-04,97 days
+101,Heat wave,Sweden,Northern Europe,Europe,,36.9,°C,2022,5,40.0,2022-05-30,2022-09-30,123 days
+102,Heat wave,Bangladesh,Southern Asia,Asia,"Shyampur, Bangshal, Kotwali (Dhaka), Sutrapur, Kamrangir Char, Chak Bazar, Lalbagh, Gendaria, Paltan, Barisal, Dhaka, Khulna, Rajshahi, Rangpur; Magura district",38.0,°C,2024,4,10.0,2024-04-21,2024-05-07,16 days
+103,Heat wave,Myanmar,South-eastern Asia,Asia,,47.0,°C,2024,4,50.0,2024-04-01,2024-05-03,32 days
+104,Heat wave,Mexico,Latin America and the Caribbean,Americas,,45.0,°C,2024,3,155.0,2024-03-01,2024-05-31,91 days
+105,Heat wave,Saudi Arabia,Western Asia,Asia,,51.8,°C,2024,6,1301.0,2024-06-01,2024-06-20,19 days
+106,Heat wave,Pakistan,Southern Asia,Asia,"Karachi, Sindh province",50.0,°C,2024,6,568.0,2024-06-20,2024-06-25,5 days
+107,Heat wave,Morocco,Northern Africa,Africa,,48.0,°C,2024,7,21.0,2024-07-22,2024-07-24,2 days
+108,Heat wave,United States of America,Northern America,Americas,Arizona,40.0,°C,2024,4,1006.0,2024-04-18,2024-10-31,196 days
+109,Heat wave,Japan,Eastern Asia,Asia,"Shizuoka, Osaka, Nara, Tochigi, Fukuoka, Hokkaido Prefectures",41.0,°C,2024,4,123.0,2024-04-01,2024-09-30,182 days
+110,Heat wave,Republic of Korea,Eastern Asia,Asia,,35.0,°C,2024,5,22.0,2024-05-20,2024-09-30,133 days
