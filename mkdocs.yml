@@ -1,9 +1,0 @@
-site_name: Project 4
-site_author: Erin De Pree, Sahar Mehmood, and Ken Muchira
-
-nav:
-  - 'index.md'
-
-theme:
-  name: mkdocs
-  locale: en
