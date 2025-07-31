@@ -1,212 +1,212 @@
-latitude,longitude,country,region,location,city,notes
--90,-180,Antarctic,Antarctic,,,south pole
--89,-180,Antarctic,Antarctic,,,
--88,-180,Antarctic,Antarctic,,,
--87,-180,Antarctic,Antarctic,,,
--86,-180,Antarctic,Antarctic,,,
--85,-180,Antarctic,Antarctic,,,
--84,-180,Antarctic,Antarctic,,,
--83,-180,Antarctic,Antarctic,,,
--82,-180,Antarctic,Antarctic,,,
--81,-180,Antarctic,Antarctic,,,
--80,-180,Antarctic,Antarctic,,,
--79,-180,Antarctic,Antarctic,,,
--78,-180,Antarctic,Antarctic,,,
--85,-175,Antarctic,Antarctic,,,
--80,-175,Antarctic,Antarctic,,,
--80,-170,Antarctic,Antarctic,,,
--80,-160,Antarctic,Antarctic,,,
-60,-160,United States of America,Alaska,,,
-70,-160,United States of America,Alaska,,Wainwright,
--80,-150,Antarctic,Antarctic,,,
-60,-150,United States of America,Alaska,,Anchorage,
-70,-150,United States of America,Alaska,,Prudhoe Bay,
--80,-140,Antarctic,Antarctic,,,
-60,-140,United States of America,Alaska,,Yakutat,
--80,-130,Antarctic,Antarctic,,,
-60,-130,Canada,Yukon / BC,,Swift River,
-70,-130,Canada,Northwest Territories,,Tuktoyaktuk,
--80,-120,Antarctic,Antarctic,,,
-40,-120,United States of America,California / Nevada,,Reno,
-50,-120,Canada,British Columbia,,Vancouver,
-60,-120,Canada,BC/Alberta/NW Terr,,,
--80,-110,Antarctic,Antarctic,,,
-30,-110,Mexico,Sonora,,Banamichi,
-40,-110,United States of America,Utah,,Ouray,
-50,-110,Canada,Alberta / Saskatchewan,,Calgary,
-60,-110,Canada,Alberta / Saskatchewan / NW Terr,,,
-70,-110,Canada,Nunavut,,,
--80,-100,Antarctic,Antarctic,,,
-20,-100,Mexico,,,Mexico City,
-30,-100,United States of America,Texas,,San Antonio,
-40,-100,United States of America,Nebraska / Kansas,,,
-50,-100,Canada,Manitoba,,Winnipeg,
-60,-100,Canada,Nunavut / Manitoba,,,
-80,-100,Canada,,,,
--80,-90,Antarctic,Antarctic,,,
-20,-90,Mexico,Campeche / Yucatan,,Campeche,
-30,-90,United States of America,Lousiana,,New Orleans,
-40,-90,United States of America,Illinois,,"St. Louis, Springfield",
-50,-90,Canada,Ontario,,Savant Lake,
--80,-80,Antarctic,Antarctic,,,
-40,-80,United States of America,Pennsylvania,,,
-50,-80,Canada,Ontraio,,,
-70,-80,Canada,Nunavut,,,
-80,-80,Canada,Nunavut,,,
--80,-70,Antarctic,Antarctic,,,
--70,-70,Antarctic,Antarctic,,,
--50,-70,Argentia,,,,
--30,-70,Chile,,,Santiago,
--20,-70,Chile,,,,
--10,-70,Brazil,,,,
-0,-70,Colombia / Brazil,,,,
-10,-70,Venezuela,,,Caracas,
-50,-70,Canada,Quebec,,,
-60,-70,Canada,Quebec,,,
-70,-70,Canada,Nunavut,,,
--80,-60,Antarctic,Antarctic,,,
--30,-60,Argentia,,,,
--20,-60,Paraguay,,,,
--10,-60,Brazil,,,,
-80,-60,Greenland,,,,northern Greenland
--80,-50,Antarctic,Antarctic,,,
--20,-50,Brazil,,,,
--10,-50,Brazil,,,,
-70,-50,Greenland,,,,
--80,-40,Antarctic,Antarctic,,,
--10,-40,Brazil,,,,
-70,-40,Greenland,,,,
-80,-40,Greenland,,,,
--80,-30,Antarctic,Antarctic,,,
-70,-30,Greenland,,,,
-80,-30,Greenland,,,,
--80,-20,Antarctic,Antarctic,,,
-80,-20,Greenland,,,,
--80,-10,Antarctic,Antarctic,,,
-20,-10,Mauitania,,,,
--80,0,Antarctic,Antarctic,,,
-10,0,Ghana,,,,
-20,0,Mali,,,,
-30,0,Algeria,,,,
-40,0,Algeria,,,,
-52,0,United Kingdom,,,London,
--80,10,Antarctic,Antarctic,,,
-0,10,Gabon,,,Libreville,
-10,10,Nigeria,,,Kano,
-20,10,Niger,,,,
-30,10,Libya / Tunisia,,,Tripoli,
-50,10,Germay,,,Frankfurt,
-60,10,Norway,,,Oslo,
--80,20,Antarctic,Antarctic,,,
--70,20,Antarctic,Antarctic,,,
--20,20,Namibia,,,,
--10,20,Angola,,,,
-0,20,Democratic Republic of the Congo,,,,
-20,20,Chad,,,,
-30,20,Libya,,,Tripoli,
-40,20,Albania,,,Tirane,
-50,20,Polad,,,Warsaw,
-80,20,Norway,Svalbar,,,
--80,30,Antarctic,Antarctic,,,
--70,30,Antarctic,Antarctic,,,
--30,30,South Africa / Lesotho,,,Durban,
--20,30,Zimbabwe,,,Harare,
--10,30,Zambia / Malawi,,,,
-10,30,South Sudan / Sudan,,,,
-20,30,Sudan,,,,
-30,30,Egypt,,,Cairo,
-40,30,Turkiye,,,Istanbul / Bursa,
-50,30,Ukraine,,,Kyiv,
-60,30,Russia,,,St. Petersburg,
--80,40,Antarctic,Antarctic,,,
--70,40,Antarctic,Antarctic,,,
-0,40,Nairobi,,,,
-10,40,Ethiopia,,,,
-30,40,Saudi Arabia,,,,
-40,40,Turkiye,,,,
-50,40,Russia / Ukraine,,,,
-60,40,Russia,,,,
--80,50,Antarctic,Antarctic,,,
--70,50,Antarctic,Antarctic,,,
-10,50,Somalia,,,,
-20,50,Saudi Arabia,,,,
-40,50,Azerbijan,,,,
-50,50,Kazakhstan,,,,
-60,50,Russia,,,,
--80,60,Antarctic,Antarctic,,,
--70,60,Antarctic,Antarctic,,,
-30,60,Iran,,,,
-40,60,Turkmenistan / Uzbekistan,,,Ashgabat,
-50,60,Kazakhstan,,,Aktobe,
-60,60,Russia,,,,
-70,60,Russia,,,,
--80,70,Antarctic,Antarctic,,,
--70,70,Antarctic,Antarctic,,,
-30,70,Pakistan,,,"Lahore, Islamabad",
-40,70,Tajikistan / Kyrgystan,,,Dushanbe,
-50,70,Kazakhstan,,,"Karaganda, Astana",
-60,70,Russia,,,,
-70,70,Russia,,,,
--80,80,Antarctic,Antarctic,,,
--70,80,Antarctic,Antarctic,,,
-20,80,Inda,,,Nagpur,
-30,80,India,,,,northern
-40,80,China,,,,
-50,80,Kazakhstan,,,Semey,
-60,80,Russia,,,,
-70,80,Russia,,,,
--80,90,Antarctic,Antarctic,,,
--70,90,Antarctic,Antarctic,,,
-30,90,"Tibet (Bhutan, Bangladash)",,,,
-40,90,China,,,,
-50,90,Mongolia / Russia,,,,
-60,90,Russia,,,,
-70,90,Russia,,,,
--80,100,Antarctic,Antarctic,,,
--70,100,Antarctic,Antarctic,,,
-0,100,Malaysia / Singapore,,,,
-20,100,Thailand / Laos / Myanmar / Vietnam,,,,
-30,100,China,,,,
-40,100,China,,,Jiuquan,
-50,100,Mongolia,,,Erdenet,
-60,100,Russia,,,,
-70,100,Russia,,,,
--80,110,Antarctic,Antarctic,,,
--70,110,Antarctic,Antarctic,,,
-0,110,"Indonesia (Malaysia, Brunei)",,,,
-30,110,China,,,,
-40,110,China,,,,
-50,110,Russia / Mongolia,,,,
-60,110,Russia,,,,
-70,110,Russia,,,,
--80,120,Antarctic,Antarctic,,,
--70,120,Antarctic,Antarctic,,,
--30,120,Australia,Western Australia,,Perth,
--20,120,Australia,Western Australia,,Port Hedland,
--10,120,Indonesia,,,,
-0,120,Indonesia (Philippines),,,,
-30,120,China,,,Nanjing,
-50,120,China,,,,
-60,120,Russia,,,,
-70,120,Russia,,,,
--80,130,Antarctic,Antarctic,,,
--70,130,Antarctic,Antarctic,,,
--20,130,Australia,,,,
-50,130,"China (North Korea, South Korea)",,,,
-60,130,Russia,,,,
-70,130,Russia,,,,
--80,140,Antarctic,Antarctic,,,
--70,140,Antarctic,Antarctic,,,
--30,140,Australia,,,Adelaide,
--20,140,Australia,,,,
-40,140,Japan,,,Tokoyo,
-50,140,Russia,,,,
-70,140,Russia,,,,
--80,150,Antarctic,Antarctic,,,
--70,150,Antarctic,Antarctic,,,
--30,150,Australia,,,"Brisbane, Sydney",
-70,150,Russia,,,,
--80,160,Antarctic,Antarctic,,,
--70,160,Antarctic,Antarctic,,,
--80,170,Antarctic,Antarctic,,,
--80,180,Antarctic,Antarctic,,,
+,latitude,longitude
+0,50.0,60.0
+1,50.0,10.0
+2,20.0,-100.0
+3,-80.0,150.0
+4,60.0,60.0
+5,50.0,40.0
+6,30.0,-110.0
+7,60.0,-160.0
+8,70.0,100.0
+9,50.0,-100.0
+10,70.0,70.0
+11,40.0,50.0
+12,40.0,-110.0
+13,-80.0,-140.0
+14,80.0,-60.0
+15,-80.0,-40.0
+16,60.0,90.0
+17,40.0,80.0
+18,30.0,80.0
+19,60.0,100.0
+20,-80.0,-180.0
+21,-80.0,-30.0
+22,-80.0,-150.0
+23,40.0,-100.0
+24,40.0,40.0
+25,50.0,-110.0
+26,70.0,60.0
+27,30.0,40.0
+28,80.0,20.0
+29,20.0,0.0
+30,70.0,90.0
+31,-30.0,30.0
+32,20.0,80.0
+33,50.0,80.0
+34,70.0,-160.0
+35,50.0,50.0
+36,30.0,-100.0
+37,-90.0,-180.0
+38,60.0,70.0
+39,20.0,50.0
+40,-80.0,160.0
+41,-80.0,0.0
+42,30.0,30.0
+43,0.0,100.0
+44,-30.0,120.0
+45,-84.0,-180.0
+46,40.0,30.0
+47,-70.0,90.0
+48,-80.0,-120.0
+49,50.0,140.0
+50,-80.0,-70.0
+51,80.0,-30.0
+52,-80.0,70.0
+53,-70.0,120.0
+54,-88.0,-180.0
+55,60.0,130.0
+56,30.0,10.0
+57,10.0,0.0
+58,0.0,10.0
+59,-10.0,20.0
+60,20.0,20.0
+61,-80.0,130.0
+62,70.0,120.0
+63,50.0,20.0
+64,-78.0,-180.0
+65,70.0,-80.0
+66,-80.0,100.0
+67,60.0,-70.0
+68,40.0,110.0
+69,70.0,-110.0
+70,40.0,-90.0
+71,-70.0,60.0
+72,60.0,-100.0
+73,30.0,120.0
+74,10.0,-70.0
+75,30.0,110.0
+76,-70.0,70.0
+77,60.0,-110.0
+78,30.0,-90.0
+79,40.0,-80.0
+80,-80.0,-10.0
+81,-10.0,120.0
+82,52.0,-0.0
+83,-80.0,90.0
+84,50.0,30.0
+85,70.0,110.0
+86,20.0,30.0
+87,50.0,-70.0
+88,-80.0,140.0
+89,-10.0,30.0
+90,-20.0,120.0
+91,-81.0,-180.0
+92,-50.0,-70.0
+93,-70.0,110.0
+94,-80.0,60.0
+95,80.0,-40.0
+96,-80.0,-50.0
+97,50.0,130.0
+98,-80.0,-60.0
+99,-85.0,-180.0
+100,-80.0,-130.0
+101,0.0,-70.0
+102,80.0,-100.0
+103,40.0,0.0
+104,-70.0,100.0
+105,60.0,10.0
+106,40.0,20.0
+107,30.0,20.0
+108,-20.0,130.0
+109,60.0,110.0
+110,-70.0,140.0
+111,70.0,-50.0
+112,-80.0,50.0
+113,-10.0,-70.0
+114,50.0,120.0
+115,-85.0,-175.0
+116,-80.0,-100.0
+117,-80.0,80.0
+118,50.0,-80.0
+119,30.0,0.0
+120,20.0,-90.0
+121,10.0,10.0
+122,-30.0,140.0
+123,-20.0,-70.0
+124,60.0,-120.0
+125,-70.0,40.0
+126,70.0,-130.0
+127,-86.0,-180.0
+128,-80.0,-90.0
+129,0.0,120.0
+130,70.0,140.0
+131,-80.0,110.0
+132,-82.0,-180.0
+133,-30.0,-60.0
+134,-20.0,-50.0
+135,-30.0,-70.0
+136,-70.0,80.0
+137,-80.0,120.0
+138,-87.0,-180.0
+139,60.0,30.0
+140,70.0,130.0
+141,-80.0,-80.0
+142,0.0,110.0
+143,10.0,30.0
+144,40.0,140.0
+145,-70.0,-70.0
+146,60.0,-130.0
+147,-70.0,50.0
+148,0.0,40.0
+149,-20.0,-60.0
+150,-83.0,-180.0
+151,50.0,-90.0
+152,-80.0,-110.0
+153,70.0,-70.0
+154,-10.0,-50.0
+155,50.0,110.0
+156,80.0,-20.0
+157,-80.0,40.0
+158,-10.0,-60.0
+159,-70.0,130.0
+160,60.0,120.0
+161,-20.0,140.0
+162,-20.0,20.0
+163,30.0,100.0
+164,-70.0,20.0
+165,60.0,-140.0
+166,40.0,100.0
+167,70.0,-150.0
+168,10.0,40.0
+169,-79.0,-180.0
+170,80.0,-80.0
+171,60.0,40.0
+172,-80.0,170.0
+173,70.0,80.0
+174,-89.0,-180.0
+175,-70.0,160.0
+176,-80.0,-175.0
+177,70.0,-30.0
+178,-80.0,30.0
+179,-80.0,-20.0
+180,50.0,90.0
+181,-80.0,-160.0
+182,20.0,-10.0
+183,-10.0,-40.0
+184,40.0,70.0
+185,50.0,-120.0
+186,30.0,70.0
+187,30.0,60.0
+188,-30.0,150.0
+189,40.0,60.0
+190,40.0,-120.0
+191,-80.0,-170.0
+192,50.0,100.0
+193,70.0,-40.0
+194,-80.0,20.0
+195,-70.0,150.0
+196,20.0,100.0
+197,20.0,10.0
+198,-80.0,180.0
+199,60.0,50.0
+200,70.0,150.0
+201,50.0,70.0
+202,10.0,50.0
+203,60.0,80.0
+204,-80.0,10.0
+205,40.0,90.0
+206,-70.0,30.0
+207,60.0,-150.0
+208,0.0,20.0
+209,30.0,90.0
+210,-20.0,30.0
