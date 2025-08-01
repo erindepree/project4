@@ -17,6 +17,7 @@ Identification of at-risk countries/underreported countries are determined by:
 The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and the dataset of daily surface temperatures (from the ERA5 analysis) covers 2020-2024 (more data is available but is time consuming to download).
 
 
+
 ## Repo Structure
 
 * `code` contains all Jupyter notebooks
@@ -122,4 +123,6 @@ The model was trained on global data
 
 ## Conclusions
 
-From the linear model, we see that at least 800 cold deaths and over 80,000 heat deaths have not been reported to EMDAT.  Underreporting is very likely to be a statistically important factor.  
+From the linear model, we see that at least 800 cold deaths and over 80,000 heat deaths have not been reported to EMDAT.  Underreporting is very likely to be a statistically important factor. The regularization models (ridge and LASSO) did not improve our model and the random forest model confirms that even the reported events are unbalanced.
+
+Therefore, we conclude that deaths due to extreme temperature events are underreport or not reported at all by many countries around the world particularly in Africa as well as Central and South Americas.
