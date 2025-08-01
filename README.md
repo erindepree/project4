@@ -32,6 +32,8 @@ The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and 
 
 * this `README.md` document
 
+* slides for our [`presentation`](presentation.pdf)
+
 * [LICENSE](LICENSE) to use our work
 
 
