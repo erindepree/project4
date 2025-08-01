@@ -86,9 +86,37 @@ Even the MAE and RMSE were almost identical for both and "smaller" but still the
 <img src='images/Ridge_actual_vs_predicted.png'>
 <img src='images/ridge_lasso_pred_vs_temp.png'>
 
-### Tree Models
+### RandomForest
+Model explains a large share of variance in training (R²=0.86), moderate on test data (R²=0.50).
+Indicates reasonable predictive power for identifying likely underreporting.
 
+<img src='images/topFeatures importances.png'>
 
+Top predictors of death:
+Regional temperature extremes
+Temperature variability (delta, anomaly, std)
+Duration of event
+Geography (Europe, Asia) also significant.
+
+#### Identifying Anomalies
+Anomaly detection identifies events likely underreported or with very high deathrates
+33 anomalies in training, 8 in test set.
+Underreport Rate by Country
+
+Mexico, Ireland, South Africa, Slovakia, Bulgaria, China, Korea, Hungary, Norway
+
+<img src='images/rate.png'>
+
+This suggests that the true impact of extreme temperature events may be systematically underreported in many countries.
+
+<img src='images/countries with highMortalityRates.png'>
+
+France, Spain, Italy, and Germany have far more reported deaths than the model would predict.
+
+This  corresponds to widely recognized heatwaves or disasters, such as the 2003 European heatwave.
+
+The model was trained on global data 
+(where most events are much smaller), so it may underestimate deaths in truly catastrophic events.
 
 ## Conclusions
 
