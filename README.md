@@ -20,13 +20,15 @@ The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and 
 
 ## Repo Structure
 
-* `code` contains all Jupyter notebooks
+* [`code`](code) contains all Jupyter notebooks
 
-* `data` contains all raw, processed, and final datasets
+* [`data`](data) contains all raw, processed, and final datasets
 
 * `images` holds the most useful images
 
 * `model_results` containts more detailed predictions
+
+* `research_sources` includes non-data sources of information
 
 * this `README.md` document
 
