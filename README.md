@@ -76,6 +76,15 @@ Our linear model of heat waves did not perform as well.  In fact, it has an $R^2
 This model predicts approximately $87,000$ unreported deaths.  But with such a low $R^2$ score, this is not a reliable result.  
 
 ### Regularization: Ridge and LASSO
+Ridge and Lasso regularization helps with regularizing data and finding a pattern/correlation.  The best alpha for Ridge w/GridSearchCV 11.5140 and Lasso w/GridSearchCV 24.42053.  In this case, for cold waves, perhaps because the final dataset was small, Ridge and Lasso proved to be Not good models, despite cycing through different features and alpha combinations.
+
+The Train $R^2$ score for Ridge w/GridSearchCV was 0.6643, while for Lasso w/GridSearchCV was 0.5496, which looks strong.  However, the Test $R^2$ score for Ridge w/GridSearchCV was -0.424288	and -0.431328 for Lasso w/GridSearchCV.  This is not just overfitting; it's grossly not fitting the data at all.  After cross-validation we see $R^2$ score for Ridge w/GridSearchCV was -0.074033 and 0.178545 for Lasso w/GridSearchCV.  As these are close to zero, so no pattern at all, we see that in the scatterplots; all predictions remain the same.
+
+Even the MAE and RMSE were almost identical for both and "smaller" but still the plots showed little correlation
+
+<img src='images/Lasso_actual_vs_predicted.png'>
+<img src='images/Ridge_actual_vs_predicted.png'>
+<img src='images/ridge_lasso_pred_vs_temp.png'>
 
 ### Tree Models
 
