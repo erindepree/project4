@@ -47,6 +47,7 @@ The [EM-DAT data](code/erin_1/clean_emdat.ipynb) reports the deaths due to extre
 
 More concerning are the number of deaths per region:
 <img src='images/deaths_region.jpg'>
+
 Although Europe contains about 10% of the world's population, it reported over 90% of the extreme temperature deaths.  Thus, it is very likely that large parts of the world are underreporting deaths due to extreme temperatures.  
 
 
