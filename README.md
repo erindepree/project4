@@ -35,7 +35,8 @@ The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and 
 
 ## Cleaning and Early Data Analysis
 ### EM-DAT data: reported deaths
-The EM-DAT data reports the deaths due to extreme temperatures (among other disasters).  However there is an extreme geographic imbalance in the reported deaths due to extreme temperatures.
+
+The [EM-DAT data](code/erin_1/clean_emdat.ipynb) reports the deaths due to extreme temperatures (among other disasters).  However there is an [extreme geographic imbalance](code/erin3_feature_extraction.ipynb) in the reported deaths due to extreme temperatures.
 
 <img src='images/report_continent.jpg'>
 
@@ -45,7 +46,8 @@ Although Europe contains about 10% of the world's population, it reported over 9
 
 
 ### ERA5 temperature data
-The ERA5 data includes a temperature measured 2 meters above the ground over all land surfaces.  The ERA5 data is available from 1950 to 6 days ago on a 1 degree latitude by 1 degree longitude around the globe.  Unfortuntely, this is an extremely time consuming to download and process (both steps were run overnight).  Therefore, we have restricted ourselves to a 10 degree latitude by 10 degree longitude grid from 2020 to mid-2025. Not all data points were above land, so we had to process all the files (over 700) to determine which were helpful and which were not.  
+
+The ERA5 data includes a temperature measured 2 meters above the ground over all land surfaces.  The ERA5 data is available from 1950 to 6 days ago on a 1 degree latitude by 1 degree longitude around the globe.  Unfortuntely, this is an extremely time consuming to download and process (both steps were run overnight).  Therefore, we have restricted ourselves to a 10 degree latitude by 10 degree longitude grid from 2020 to mid-2025. Not all data points were above land, so we had to [process all the files](code/erin2_temp_data.ipynb) (over 700, available on [Google Drive](https://drive.google.com/drive/folders/1yC7wn5CA4mjju9ALo66O8LhqpOVXBVr7?usp=drive_link)) to determine which were helpful and which were not.  An [example file](data/raw/reanalysis-era5-land-timeseries-sfc-2m-temperatureob3k65l0.csv) is included in this repo.
 
 We calculate the extreme maximum and minimum temperatures at each grid month for each calendar month.  For the extreme maximum temperature, we took the mean of the daily maximum temperature for that month (e.g. May 2020, May 2021, May 2022, May 2023, and May 2024 daily maximum temperatures average to the mean-daily-max (or `mean_max`) we then found the standard deviation for these temperatures and calculate the extreme maximum temperature:
 
@@ -59,7 +61,7 @@ We then searched for consecutive days experiencing temperatures beyond the extre
 
 ## Modeling
 ### Linear Model 
-Although linear models are limited, they are very interpretable.  We fit the model to the known extreme temperature deaths and predict the deaths of the extreme temperature events seen in the ERA5 data.
+Although linear models are limited, they are very interpretable.  We [fit the model](code/erin5_linear.ipynb) to the known extreme temperature deaths and predict the deaths of the extreme temperature events seen in the ERA5 data.
 
 The cold model has an $R^2$ score of 0.596 and 0.573 on the training and testing data sets and a combined $R^2$ of 0.592.  These similar scores indicate that the model works consistently well with training and testing data.  
 
