@@ -24,15 +24,15 @@ The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and 
 
 * [`data`](data) contains all raw, processed, and final datasets
 
-* `images` holds the most useful images
+* [`images`](images) holds the most useful images
 
-* `model_results` containts more detailed predictions
+* [`model_results`](model_results) containts more detailed predictions
 
-* `research_sources` includes non-data sources of information
+* [`research_sources.md`](resourch_sources.md) includes non-data sources of information
 
 * this `README.md` document
 
-* LICENSE to use our work
+* [LICENSE](LICENSE) to use our work
 
 
 
