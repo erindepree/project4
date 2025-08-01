@@ -40,14 +40,40 @@ The EM-DAT data reports the deaths due to extreme temperatures (among other disa
 <img src='images/report_continent.jpg'>
 
 More concerning are the number of deaths per region:
-
+<img src='images/deaths_region.jpg'>
+Although Europe contains about 10% of the world's population, it reported over 90% of the extreme temperature deaths.  Thus, it is very likely that large parts of the world are underreporting deaths due to extreme temperatures.  
 
 
 ### ERA5 temperature data
 The ERA5 data includes a temperature measured 2 meters above the ground over all land surfaces.  The ERA5 data is available from 1950 to 6 days ago on a 1 degree latitude by 1 degree longitude around the globe.  Unfortuntely, this is an extremely time consuming to download and process (both steps were run overnight).  Therefore, we have restricted ourselves to a 10 degree latitude by 10 degree longitude grid from 2020 to mid-2025. Not all data points were above land, so we had to process all the files (over 700) to determine which were helpful and which were not.  
 
+We calculate the extreme maximum and minimum temperatures at each grid month for each calendar month.  For the extreme maximum temperature, we took the mean of the daily maximum temperature for that month (e.g. May 2020, May 2021, May 2022, May 2023, and May 2024 daily maximum temperatures average to the mean-daily-max (or `mean_max`) we then found the standard deviation for these temperatures and calculate the extreme maximum temperature:
+
+$$ T_\text{extreme, max} = T_\text{max, mean} + 2.5 \sigma_\text{max} $$
+
+We follow the same process for the extreme minimum temperature:
+
+$$ T_\text{extreme, min} = T_\text{min, mean} - 2.5 \sigma_\text{min} $$
+
+We then searched for consecutive days experiencing temperatures beyond the extreme temperatures.  
+
 ## Modeling
 ### Linear Model 
+Although linear models are limited, they are very interpretable.  We fit the model to the known extreme temperature deaths and predict the deaths of the extreme temperature events seen in the ERA5 data.
+
+The cold model has an $R^2$ score of 0.596 and 0.573 on the training and testing data sets and a combined $R^2$ of 0.592.  These similar scores indicate that the model works consistently well with training and testing data.  
+
+<img src='images/cold_linear_temperature_predictions.jpg'>
+<img src='images/cold_linear_duration_predictions.jpg'>
+
+We can see the predictions, known events, and model are roughly similar.  This is an excellent start.  Our model predicts around 800 unreported deaths due to extreme cold.
+
+Our linear model of heat waves did not perform as well.  In fact, it has an $R^2$ of $0.065$ and $-0.067$ for the training and testing data sets.  This means that our model is equivalent with just averaging the results and reporting that instead!  So, not great.  But let's look at the result.
+
+<img src='images/heat_linear_temperature_predictions.jpg'>
+<img src='images/heat_linear_duration_predictions.jpg'>
+
+This model predicts approximately $87,000$ unreported deaths.  But with such a low $R^2$ score, this is not a reliable result.  
 
 ### Regularization: Ridge and LASSO
 
