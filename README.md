@@ -82,7 +82,9 @@ The Train $R^2$ score for Ridge w/GridSearchCV was 0.6643, while for Lasso w/Gri
 
 Even the MAE and RMSE were almost identical for both and "smaller" but still the plots showed little correlation
 
-INSERT IMAGE 
+<img src='images/Lasso_actual_vs_predicted.png'>
+<img src='images/Ridge_actual_vs_predicted.png'>
+<img src='images/ridge_lasso_pred_vs_temp.png'>
 
 ### Tree Models
 
