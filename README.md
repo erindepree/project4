@@ -70,8 +70,8 @@ We can see the predictions, known events, and model are roughly similar.  This i
 
 Our linear model of heat waves did not perform as well.  In fact, it has an $R^2$ of $0.065$ and $-0.067$ for the training and testing data sets.  This means that our model is equivalent with just averaging the results and reporting that instead!  So, not great.  But let's look at the result.
 
-<img src='images/heat_linear_temperature_predictions.jpg'>
-<img src='images/heat_linear_duration_predictions.jpg'>
+<img src='images/heat_linear_death_temp_predictions.jpg'>
+<img src='images/heat_linear_death_duration_predictions.jpg'>
 
 This model predicts approximately $87,000$ unreported deaths.  But with such a low $R^2$ score, this is not a reliable result.  
 
