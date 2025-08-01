@@ -35,6 +35,13 @@ The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and 
 
 ## Cleaning and Early Data Analysis
 ### EM-DAT data: reported deaths
+The EM-DAT data reports the deaths due to extreme temperatures (among other disasters).  However there is an extreme geographic imbalance in the reported deaths due to extreme temperatures.
+
+<img src='images/report_continent.jpg'>
+
+More concerning are the number of deaths per region:
+
+
 
 ### ERA5 temperature data
 The ERA5 data includes a temperature measured 2 meters above the ground over all land surfaces.  The ERA5 data is available from 1950 to 6 days ago on a 1 degree latitude by 1 degree longitude around the globe.  Unfortuntely, this is an extremely time consuming to download and process (both steps were run overnight).  Therefore, we have restricted ourselves to a 10 degree latitude by 10 degree longitude grid from 2020 to mid-2025. Not all data points were above land, so we had to process all the files (over 700) to determine which were helpful and which were not.  
