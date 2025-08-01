@@ -17,19 +17,24 @@ Identification of at-risk countries/underreported countries are determined by:
 The timeline explored will look at years 2020-2024 from EM-DAT extreme temp and the dataset of daily surface temperatures (from the ERA5 analysis) covers 2020-2024 (more data is available but is time consuming to download).
 
 
+
 ## Repo Structure
 
-* `code` contains all Jupyter notebooks
+* [`code`](code) contains all Jupyter notebooks
 
-* `data` contains all raw, processed, and final datasets
+* [`data`](data) contains all raw, processed, and final datasets
 
-* `images` holds the most useful images
+* [`images`](images) holds the most useful images
 
-* `model_results` containts more detailed predictions
+* [`model_results`](model_results) containts more detailed predictions
+
+* [`research_sources.md`](resourch_sources.md) includes non-data sources of information
 
 * this `README.md` document
 
-* LICENSE to use our work
+* slides for our [`presentation`](presentation.pdf)
+
+* [LICENSE](LICENSE) to use our work
 
 
 
@@ -42,6 +47,7 @@ The [EM-DAT data](code/erin_1/clean_emdat.ipynb) reports the deaths due to extre
 
 More concerning are the number of deaths per region:
 <img src='images/deaths_region.jpg'>
+
 Although Europe contains about 10% of the world's population, it reported over 90% of the extreme temperature deaths.  Thus, it is very likely that large parts of the world are underreporting deaths due to extreme temperatures.  
 
 
@@ -78,11 +84,50 @@ Our linear model of heat waves did not perform as well.  In fact, it has an $R^2
 This model predicts approximately $87,000$ unreported deaths.  But with such a low $R^2$ score, this is not a reliable result.  
 
 ### Regularization: Ridge and LASSO
+Ridge and Lasso regularization helps with regularizing data and finding a pattern/correlation.  The best alpha for Ridge w/GridSearchCV 11.5140 and Lasso w/GridSearchCV 24.42053.  In this case, for cold waves, perhaps because the final dataset was small, Ridge and Lasso proved to be Not good models, despite cycing through different features and alpha combinations.
 
-### Tree Models
+The Train $R^2$ score for Ridge w/GridSearchCV was 0.6643, while for Lasso w/GridSearchCV was 0.5496, which looks strong.  However, the Test $R^2$ score for Ridge w/GridSearchCV was -0.424288	and -0.431328 for Lasso w/GridSearchCV.  This is not just overfitting; it's grossly not fitting the data at all.  After cross-validation we see $R^2$ score for Ridge w/GridSearchCV was -0.074033 and 0.178545 for Lasso w/GridSearchCV.  As these are close to zero, so no pattern at all, we see that in the scatterplots; all predictions remain the same.
 
+Even the MAE and RMSE were almost identical for both and "smaller" but still the plots showed little correlation
 
+<img src='images/Lasso_actual_vs_predicted.png'>
+<img src='images/Ridge_actual_vs_predicted.png'>
+<img src='images/ridge_lasso_pred_vs_temp.png'>
+
+### RandomForest
+Model explains a large share of variance in training (R²=0.86), moderate on test data (R²=0.50).
+Indicates reasonable predictive power for identifying likely underreporting.
+
+<img src='images/topFeatures importances.png'>
+
+Top predictors of death:
+Regional temperature extremes
+Temperature variability (delta, anomaly, std)
+Duration of event
+Geography (Europe, Asia) also significant.
+
+#### Identifying Anomalies
+Anomaly detection identifies events likely underreported or with very high deathrates
+33 anomalies in training, 8 in test set.
+Underreport Rate by Country
+
+Mexico, Ireland, South Africa, Slovakia, Bulgaria, China, Korea, Hungary, Norway
+
+<img src='images/rate.png'>
+
+This suggests that the true impact of extreme temperature events may be systematically underreported in many countries.
+
+<img src='images/countries with highMortalityRates.png'>
+
+France, Spain, Italy, and Germany have far more reported deaths than the model would predict.
+
+This  corresponds to widely recognized heatwaves or disasters, such as the 2003 European heatwave.
+
+The model was trained on global data 
+(where most events are much smaller), so it may underestimate deaths in truly catastrophic events.
 
 ## Conclusions
 
-From the linear model, we see that at least 800 cold deaths and over 80,000 heat deaths have not been reported to EMDAT.  Underreporting is very likely to be a statistically important factor.  
+From the linear model, we see that at least 800 cold deaths and over 80,000 heat deaths have not been reported to EMDAT.  Underreporting is very likely to be a statistically important factor. The regularization models (ridge and LASSO) did not improve our model and the random forest model confirms that even the reported events are unbalanced.
+
+Therefore, we conclude that deaths due to extreme temperature events are underreport or not reported at all by many countries around the world particularly in Africa as well as Central and South Americas.

@@ -58,15 +58,40 @@ Data that has been processed by the team in any way.  These are primarily data t
 
 
 ### `death_percentages` Directory 
-* `file_name`
-	* description
-	* teammember
-	* data sources
+* `all_disasters_reorg_2020-2024`
+	* EM-DAT disasters data organized by disaster subgroup, disaster type, disaster subtype to determine the scale of extreme temperature event compared to all disasters
+	* Processed by Sehar
+	* EM-DAT
 
-* `file_name`
-	* description
-	* teammember
-	* data sources
+* `countries_reporting_all_disasters_2020-2024.csv`
+	* List of all countries and their frequency annually that reported a disaster in the previous 5 yrs.  172 Nations have reported, though there are 190+ countries
+	* Processed by Sehar
+	* EM-DAT
+
+* `countries_reporting_all_disasters_months_2020-2024.csv`
+	* List of all countries and how many months a disaster was reported in the previous 5 yrs. Some nations report significantly more than others
+	* Processed by Sehar
+	* EM-DAT
+
+* `countries_reporting_extemp_disasters_2020-2024.csv`
+    * List of countries only reporting extreme temperature events in the past 5 yrs.  There are only 19 countries.
+    * Processed by Sehar
+	* EM-DAT
+      
+* `death_percentage2_location_ext_temp_2020-2024.csv`
+    * Death percentage due to extreme temperature events calculated from total deaths caused by any disasters from 2020=2024.  
+    * Processed by Sehar
+	* EM-DAT
+
+* `death_percentage2_location_ext_temp_month_2020-2024.csv`
+    * Death percentage broken down to every month a disaster occurred.
+    * Processed by Sehar
+	* EM-DAT 
+
+* `only_ext_temp-reorg_2020-2024.csv`
+	* Culmination of all the above to gather how many countries and how many deaths occurred in 2020-2024 due to extreme temperatures.  Only 31 events in 5 yrs
+	* Processed by Sehar
+	* EM-DAT
 
 
 ### `extreme_temp` Directory
