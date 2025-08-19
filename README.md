@@ -1,6 +1,8 @@
 # Unreported Deaths Due to Extreme Temperature Events
 Erin De Pree, Sehar Mehmood, Ken Muchira
 
+_This repo was archived on 19 August 2025._
+
 ## Problem Statement
 Given that extreme temperature events are likely to increase with global climate change, we want to identify:
 
